@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 👨‍💻 All of my projects are available at [dominikraducki.works](dominikraducki.works)
+- 👨‍💻 All of my projects are available at [https://dominikraducki.works](https://dominikraducki.works)
 
 - 📫 How to reach me **dominik.raducki@onet.pl**
 
