@@ -1,4 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
+<div id="header" align="center">
+  <a href="https://dominikraducki.works">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </a>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/dominik-raducki-729094207/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <h3 align="center">Future front-end/full-stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeden1102" alt="jeden1102" /></a> </p>
