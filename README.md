@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h3 align="center">Future front-end/full-stack Developer</h3>
+<h3 align="center">Front-end Developer @ <a href="https://smartbees.co/">Smartbees</a></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeden1102" alt="jeden1102" /></a> </p>
 
