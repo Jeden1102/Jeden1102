@@ -5,7 +5,7 @@
   </a>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dominik-raducki-729094207/">
+  <a href="https://www.linkedin.com/in/dominik-raducki/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dominikraducki.pl](https://dominikraducki.pl)
 
-- 📫 How to reach me **dominik.raducki@onet.pl** [LinkedIN](https://www.linkedin.com/in/dominik-raducki/) 
+- 📫 How to reach me **dominik.raducki@onet.pl**
 
 
 <p align="left">
