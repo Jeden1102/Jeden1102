@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeden1102" alt="jeden1102" /></a> </p>
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently expanding my knowledge in: **Nuxt** | **Vue3** | **Supabase** | **Strapi**
 
-- 👨‍💻 All of my projects are available at [https://dominikraducki.works](https://dominikraducki.works)
+- 👨‍💻 All of my projects are available at [https://dominikraducki.pl](https://dominikraducki.pl)
 
 - 📫 How to reach me **dominik.raducki@onet.pl**
 
