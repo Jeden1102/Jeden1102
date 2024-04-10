@@ -17,9 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [https://dominikraducki.pl](https://dominikraducki.pl)
 
-- 📫 How to reach me **dominik.raducki@onet.pl**
+- 📫 How to reach me **dominik.raducki@onet.pl** [LinkedIN](https://www.linkedin.com/in/dominik-raducki/) 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
