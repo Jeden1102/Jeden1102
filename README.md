@@ -15,7 +15,14 @@
 
 - 🌱 I’m currently expanding my knowledge in: **Nuxt** | **Vue3** | **Supabase** | **Strapi**
 
-- 👨‍💻 All of my projects are available at [https://dominikraducki.pl](https://dominikraducki.pl)
+- 👨‍💻 Some of my personal projects:
+[https://www.aipplied.app](https://www.aipplied.app)
+[https://ic-hopper.vercel.app/](https://ic-hopper.vercel.app/)
+[https://candles-ten.vercel.app/](https://candles-ten.vercel.app/)
+[https://donations-ashen.vercel.app/](https://donations-ashen.vercel.app/)
+[https://drinks-lp.vercel.app/](https://drinks-lp.vercel.app/)
+[https://news-page-oora.onrender.com/](https://news-page-oora.onrender.com/)
+
 
 - 📫 How to reach me **dominik.raducki@onet.pl**
 
